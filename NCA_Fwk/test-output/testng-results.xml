@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-16T11:36:41 IST" name="Suite" finished-at="2022-08-16T11:36:54 IST" duration-ms="12605">
+    <groups>
+    </groups>
+    <test started-at="2022-08-16T11:36:41 IST" name="chrome" finished-at="2022-08-16T11:36:54 IST" duration-ms="12605">
+      <class name="base.TestScript">
+        <test-method is-config="true" signature="beforeTest(java.lang.String)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:41 IST" name="beforeTest" finished-at="2022-08-16T11:36:49 IST" duration-ms="8250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[browserName1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:52 IST" name="prerequisite" data-provider="books" finished-at="2022-08-16T11:36:53 IST" duration-ms="446" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Russian]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="afterMethod" finished-at="2022-08-16T11:36:53 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prerequisite status=SUCCESS method=TestScript.prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="prerequisite" data-provider="books" finished-at="2022-08-16T11:36:53 IST" duration-ms="141" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Just as I Am]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="afterMethod" finished-at="2022-08-16T11:36:53 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prerequisite status=SUCCESS method=TestScript.prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="prerequisite" data-provider="books" finished-at="2022-08-16T11:36:53 IST" duration-ms="144" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Vanishing Half]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="afterMethod" finished-at="2022-08-16T11:36:53 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prerequisite status=SUCCESS method=TestScript.prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="prerequisite" data-provider="books" finished-at="2022-08-16T11:36:53 IST" duration-ms="146" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[The Midnight Library]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="afterMethod" finished-at="2022-08-16T11:36:53 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prerequisite status=SUCCESS method=TestScript.prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method signature="prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="prerequisite" data-provider="books" finished-at="2022-08-16T11:36:53 IST" duration-ms="115" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Untamed]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method signature="prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="prerequisite" data-provider="books" finished-at="2022-08-16T11:36:54 IST" duration-ms="148" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Viscount Who Loved Me]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisite -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:53 IST" name="afterMethod" finished-at="2022-08-16T11:36:53 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prerequisite status=SUCCESS method=TestScript.prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:54 IST" name="afterMethod" finished-at="2022-08-16T11:36:54 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=prerequisite status=SUCCESS method=TestScript.prerequisite(java.lang.String)[pri:1, instance:base.TestScript@7133da86] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:base.TestScript@7133da86]" started-at="2022-08-16T11:36:54 IST" name="afterClass" finished-at="2022-08-16T11:36:54 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- base.TestScript -->
+    </test> <!-- chrome -->
+  </suite> <!-- Suite -->
+</testng-results>

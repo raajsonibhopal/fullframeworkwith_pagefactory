@@ -1,0 +1,18 @@
+git init
+git add .
+git commit -m "raj"
+remote
+git branch -M main
+git push -u origin main
+
+
+
+
+get size
+array 
+
+aggrigrate
+
+
+
+
